@@ -31,3 +31,6 @@
 
 # RWTH logos
 logos/rwth*
+
+latex.out
+.DS_Store
